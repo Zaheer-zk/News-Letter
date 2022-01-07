@@ -1,0 +1,4 @@
+server link : https://infinite-sea-24069.herokuapp.com/
+
+
+mailchimp : https://us20.admin.mailchimp.com/lists/members?id=292984#p:1-s:25-sa:last_update_time-so:false
